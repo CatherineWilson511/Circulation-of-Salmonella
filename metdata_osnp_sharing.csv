@@ -1,0 +1,32 @@
+﻿HH1,ST_HH1,Subspecies_HH1,Serovar_HH1,HH1_number,study_site_HH1,Sample.type_HH1,Individual.type_HH1,animal.category_HH1,Host_HH1,AMR_finder_HH1,abricate_pf_HH1,Sample.ID_HH1,HH1_visit
+34124_8#243,09532801ebf3300cda08529de1b379f5e356049c,salamae,"II 35:z29:e,n,x",CHH9,C,Rodent,Rodent,wildlife,Animal,fosA7,NA,23Xii,2CHH9
+34873_1#81,1af8279c263ccffa74afdaea7fe06d1999e71e4c,salamae,"II 28:m,t:[e,n,x]",CHH6,C,Chicken 5,Chicken,poultry,Animal,fosA7,NA,13Xv,CHH6
+34124_8#287,7004abe10e2249ae5e3d57208e1c65adf8b415ea,salamae,"II 1,13,23:e,n,x:e,n,x",CHH15,C,Gecko,Gecko,wildlife,Animal,,NA,19XV,2CHH15
+34124_8#76,1188,salamae,"II 1,13,23:z29:e,n,x",CHH4,C,Duck 3,Duck,poultry,Animal,,NA,7Xii,3CHH4
+34873_1#152,d7bc76a2a5d67dfe30c57ada2885231ec0d9f154,salamae,"II 41:l,[z13],[z28]:z39",CHH5,C,Gecko,Gecko,wildlife,Animal,,NA,6Xii,3CHH5
+34873_1#144,d7bc76a2a5d67dfe30c57ada2885231ec0d9f154,salamae,"II 41:l,[z13],[z28]:z39",CHH10,C,Human-Edward Raphael,Human,,Human,,NA,4Xi,2CHH10
+34873_1#17,f6a71445f3cea56fe6f1c79ac6786aa283360447,salamae,"II 35:g,z62:e,n,x",CHH15,C,Goat 2,Goat,livestock,Animal,fosA7,NA,10Xiv,CHH15
+34873_1#161,0fc02d0e4e917d95d5522ce2785331047486d2e1,salamae,"II 28:g,m,t:e,n,x|II 28:m,t:[e,n,x]",CHH6,C,Dog 3,Dog,dom_an,Animal,,NA,5Xii,CHH6
+34124_8#271,d7bc76a2a5d67dfe30c57ada2885231ec0d9f154,salamae,"II 41:l,[z13],[z28]:z39",CHH4,C,Duck 2,Duck,poultry,Animal,,NA,15Xi,2CHH4
+34124_8#81,0fc02d0e4e917d95d5522ce2785331047486d2e1,salamae,"II 28:g,m,t:e,n,x|II 28:m,t:[e,n,x]",NHH6,N,Human- Frank,Human,,Human,,NA,5Xii,NHH6
+34124_8#186,09532801ebf3300cda08529de1b379f5e356049c,salamae,"II 35:z29:e,n,x",CHH3,C,Puppy 3,Dog,dom_an,Animal,fosA7,NA,13Cii,2CHH3
+34124_8#189,1af8279c263ccffa74afdaea7fe06d1999e71e4c,salamae,"II 28:m,t:[e,n,x]",CHH6,C,Dog 2,Dog,dom_an,Animal,fosA7,NA,4Xi,CHH6
+34124_8#195,7004abe10e2249ae5e3d57208e1c65adf8b415ea,salamae,"II 1,13,23:e,n,x:e,n,x",CHH15,C,Ellen dirty chitenje,Env,,Env,,NA,20X1,2CHH15
+34124_8#26,1188,salamae,"II 1,13,23:z29:e,n,x",CHH4,C,Outside bootsock,Env,,Env,,NA,25H5,3CHH4
+34124_8#28,f6a71445f3cea56fe6f1c79ac6786aa283360447,salamae,"II 35:g,z62:e,n,x",CHH15,C,Gecko,Gecko,wildlife,Animal,fosA7,NA,6Hi,3CHH15
+34873_1#154,d7bc76a2a5d67dfe30c57ada2885231ec0d9f154,salamae,"II 41:l,[z13],[z28]:z39",CHH5,C,Gecko,Gecko,wildlife,Animal,,NA,6Xv,3CHH5
+34124_8#124,3242,enterica,Berkeley,CHH6,C,Chicken 10,Chicken,poultry,Animal,,NA,17Xii,CHH6
+34124_7#89,3242,enterica,Berkeley,NHH6,N,Dog owner collected,Dog,dom_an,Animal,,NA,11Xiv,NHH6
+34124_8#206,19,enterica,Typhimurium,CHH2,C,Tap handle,Env,,Env,qnrB19,NA,20Xii,2CHH2
+34124_8#58,19,enterica,Typhimurium,CHH15,C,Duck 2,Duck,poultry,Animal,,NA,12H2,2CHH15
+34124_7#119,3242,enterica,Berkeley,CHH6,C,Chicken 5,Chicken,poultry,Animal,,NA,13Xii,CHH6
+34124_8#98,512,enterica,Johannesburg,CHH10,C,Chicken 2,Chicken,poultry,Animal,,NA,10Hi,3CHH10
+34746_4#7,365,enterica,Weltevreden,CHH5,C,Duck 1,Duck,poultry,Animal,,NA,15Xii,3CHH5
+34124_7#12,365,enterica,Weltevreden,CHH5,C,Duck 2,Duck,poultry,Animal,,IncI_Gamma_1,14Xii,3CHH5
+34124_8#97,94,enterica,Rubislaw,NHH4,N,Chicken floor B,Chicken,poultry,Animal,,NA,7Xi,NHH4
+34124_7#166,19,enterica,Typhimurium,CHH2,C,Human-Lucky,Human,,Human,qnrB19,NA,1Xi,3CHH2
+34124_7#66,19,enterica,Typhimurium,CHH15,C,Duck 1,Duck,poultry,Animal,,NA,11X2,2CHH15
+34124_8#104,512,enterica,Johannesburg,CHH10,C,Human- Raphael,Human,,Human,,NA,3Xii,3CHH10
+34124_8#4,365,enterica,Weltevreden,CHH5,C,Duck 4,Duck,poultry,Animal,,NA,13Xii,3CHH5
+34124_8#56,94,enterica,Rubislaw,CHH4,C,Human- Ruth Thonje,Human,,Human,,NA,1Ci,CHH4
+40441_1#237,365,enterica,Weltevreden,CHH5,C,Duck 1,Duck,poultry,Animal,fosA7,NA,15Xii,3CHH5
