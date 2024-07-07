@@ -32,8 +32,3 @@ meta_hum_st_wide_wide_extra.csv contains 14 columns. Columns A denotes the house
 meta_env_st_wide_wide_extra.csv contains 16 columns. Columns A denotes the household number. The additional 15 columns denote a different sequence type (ST) of Salmonella detected within environmental samples collected from each household. 
 
 meta_an_st_wide_wide_extra.csv contains 58 columns. Columns A denotes the household number. The additional 57 columns each denote a different sequence type (ST) of Salmonella detected within animal faeces collected from each household. 
-
-
-
-![image](https://github.com/CatherineWilson511/Circulation-of-Salmonella/assets/172935836/44d7f2b6-26da-418b-a486-9720367f51c1)
-
