@@ -1,6 +1,4 @@
 # Circulation-of-Salmonella
-Here we deposit the data presented in the upcoming research paper 'Circulation of Salmonella spp. between humans, animals and the  environment in urban and rural, low-intensity, animal-owning agricultural systems in Malawi'.
-
 Here we deposit the data presented in the upcoming research paper entitled "Circulation of Salmonella spp. between humans, animals and the environment in urban and rural, low-intensity, animal-owning agricultural systems in Malawi".
 
 We provide the code for the analysis performed in the associated R code (Salmonella_genome_diversity.R and Salmonella_network.R).
