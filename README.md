@@ -30,3 +30,12 @@ meta_hum_st_wide_wide_extra.csv contains 14 columns. Columns A denotes the house
 meta_env_st_wide_wide_extra.csv contains 16 columns. Columns A denotes the household number. The additional 15 columns denote a different sequence type (ST) of Salmonella detected within environmental samples collected from each household. 
 
 meta_an_st_wide_wide_extra.csv contains 58 columns. Columns A denotes the household number. The additional 57 columns each denote a different sequence type (ST) of Salmonella detected within animal faeces collected from each household. 
+
+Source Data- Household Circulation of Salmonella spp. between humans, animals and the 
+environment in Malawi. The Source Data file includes five sheets of data. 
+Sheet 1; Metadata and accession numbers includes data used for Figures 1, 2, Table 1 and Supplementary Figures 3, 4 and 5.  
+Sheet 2; Panaroo 227 core gene alignment includes the text of the Newick file used to construct the phylogenetic tree in Figure 2. 
+Sheet 3; Core SNP matrix used to construct Table 1 and Supplementary Figure 5. 
+Sheet 4; ST313 metadata used to construct Supplementary Figure 7. 
+Sheet 5; Mapping ST11, used to construct Supplementary Figure 8.  
+ 
